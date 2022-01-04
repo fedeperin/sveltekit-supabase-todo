@@ -53,6 +53,7 @@
         position: relative;
         display: flex;
         align-items: center;
+        overflow: hidden;
         transition: all .5s ease;
     }
 
