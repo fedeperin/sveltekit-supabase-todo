@@ -70,6 +70,11 @@
         color: #000;
         font-size: 25px;
         cursor: pointer;
+        transition: all .5s ease;
+    }
+
+    .item i:hover {
+        opacity: 0.5;
     }
 
     .icons {
