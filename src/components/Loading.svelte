@@ -13,6 +13,6 @@
         display: flex;
         align-items: center;
         justify-content: center;
-        background: #000;
+        background: #111;
     }
 </style>
