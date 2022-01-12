@@ -1,5 +1,5 @@
 <h1>To Do App:</h1>
-<p>You don't have an account, create one or log in to use this To Do app.</p>
+<p>You are not logged in, create one or log in to use this To Do app.</p>
 
 <div class="buttons">
     <a href="./signup">
