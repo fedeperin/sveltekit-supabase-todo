@@ -37,7 +37,7 @@
 </script>
 
 <div class="item" transition:fly={{ y: 100, duration: 500 }}>
-    <p style={ !todo.content.includes(' ') ? 'text-overflow: ellipsis; overflow: hidden; white-space: nowrap;' : '' } class={ todo.completed ? 'crossed' : '' } >{ todo.content }</p>
+    <p style={ todo.content.includes(' ') ? '' : 'text-overflow: ellipsis; overflow: hidden; white-space: nowrap;' } class={ todo.completed ? 'crossed' : '' } >{ todo.content }</p>
 
     <div class="icons">
         <i on:click={ changeCompleted } class={ todo.completed ? 'bx bx-plus' : 'bx bx-minus' } ></i>
