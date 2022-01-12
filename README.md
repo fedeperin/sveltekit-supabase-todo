@@ -1,5 +1,5 @@
-# SvelteKit Supabase ToDo App
-A ToDo App with an auth system built with SvelteKit and Supabase. <br>
+# SvelteKit Supabase To Do App
+A To Do App with an auth system built with SvelteKit and Supabase. <br>
 Demo of the project at [todo-sveltekit.netlify.app](https://todo-sveltekit.netlify.app).
 
 # Clone the project
